@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sagar Guttedar</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMefBCJEQC8y3kYH_FclrV1oEKDn6w3oWgawDWXIh-62HOneTe0s5U7O9RALKG89v5mI8&usqp=CAU">
+<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-OWyAsz4pGrtSOVxoareEk6l51KJDPdo01g&s">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagar-guttedar&label=Profile%20views&color=0e75b6&style=flat" alt="sagar-guttedar" /> </p>
 
